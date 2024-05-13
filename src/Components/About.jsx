@@ -24,20 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+"DevOps/SRE professional with expertise in CI/CD, IaC, containerization, cloud computing, and automation. Skilled in AWS, Azure, GCP, and monitoring tools. Dedicated to optimizing systems for performance and reliability.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Continuous Integration/Continuous Deployment (CI/CD)",
+  "Infrastructure as Code (Terraform, Github Actions)",
+  "Containerization (Docker, Kubernetes)",
+  "Cloud computing (AWS, Azure, GCP)",
+  "Monitoring and observability (Prometheus, Grafana, New Relic, Datadog)",
+  "Log management (ELK stack)",
+  "Scripting and automation (Bash, Python, Ansible)",
+  "Database management (SQL, NoSQL)",
 ];
+
 
 /**
  * Use this to give more information about what you are passionate about,

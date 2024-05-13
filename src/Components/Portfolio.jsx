@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "DevSecOps CI/CD pipeline",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "DevSecOps practices to ensure security throughout the development lifecycle.",
+    url: "https://github.com/CyrilBaah/bookstore",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CRM Genie",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " customer relationship management platform that helps businesses manage and track their interactions with customers",
+    url: "https://devpost.com/software/crm-genie",
   },
   {
-    title: "My Resume Site",
+    title: "Contribute to Open Source",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A description of open source pull request that was successfully merged into the project.",
+    url: "https://github.com/ninadingole/docker-compose-stacks/commit/7c58968973628dc9cf9a0e4a8acb4c70b5224164",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Beautiful Reminders",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Keeping the environment clean is very key to our health",
+    url: "https://proj3-clean-by-nature.netlify.app/",
   },
 ];
 
